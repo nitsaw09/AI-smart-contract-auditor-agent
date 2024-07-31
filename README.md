@@ -1,16 +1,4 @@
 <div align="center">
-  <br />
-   <a href="https://postimg.cc/G9V5k4bf" title="Project Screenshot" target="_blank">
-    <img src="./public/thumbnail.jpg" width="100%" alt="Project Screenshot"/>
-  </a>
-
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logoColor=white&logo=openai&color=412991" alt="openai" />
-  </div>
-
   <h3 align="center">AuditorAI</h3>
 
   <div align="center">
